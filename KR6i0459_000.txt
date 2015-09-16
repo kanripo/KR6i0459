@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說決定義經
+#+DATE: 2015-08-30 20:20:06.419140
+#+PROPERTY: JUAN 0
